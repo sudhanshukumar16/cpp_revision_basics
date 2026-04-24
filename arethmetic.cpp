@@ -1,30 +1,30 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-    int a = 8, b = 3;
+// int main() {
+//     int a = 8, b = 3;
 
-    // Addition
-    cout << "a + b = " << (a + b) << endl;
+//     // Addition
+//     cout << "a + b = " << (a + b) << endl;
   
-    // Subtraction
-    cout << "a - b = " << (a - b) << endl;
+//     // Subtraction
+//     cout << "a - b = " << (a - b) << endl;
   
-    // Multiplication
-    cout << "a * b = " << (a * b) << endl;
+//     // Multiplication
+//     cout << "a * b = " << (a * b) << endl;
   
-    // Division
-    cout << "a / b = " << (a / b) << endl;
+//     // Division
+//     cout << "a / b = " << (a / b) << endl;
   
-    // Modulo
-    cout << "a % b = " << (a % b) << endl;
+//     // Modulo
+//     cout << "a % b = " << (a % b) << endl;
   
-    // Increament
-    cout << "++a = " << ++a << endl;
+//     // Increament
+//     cout << "++a = " << ++a << endl;
   
-    // Decrement
-    cout << "b-- = " << b--<<endl;
-    cout<<"b-- = " <<b-- <<en;
+//     // Decrement
+//     cout << "b-- = " << b--<<endl;
+//     cout<<"b-- = " <<b-- <<en;
     
-    return 0;
-}
+//     return 0;
+// }
