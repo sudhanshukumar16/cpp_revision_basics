@@ -28,3 +28,25 @@
     
 //     return 0;
 // }
+
+
+
+
+
+// bit wisse 
+
+#include <iostream>
+using namespace std;
+int main(){
+    int a=6, b= 4;
+    
+    // cout<<(a&b);
+    // cout <<(a|b);
+    // cout << (a^b);
+    // cout <<(a<<1);
+
+    // int r = a>b?b:a;
+    // cout<<r;
+
+
+}
