@@ -35,10 +35,10 @@
 
 // bit wisse 
 
-#include <iostream>
-using namespace std;
-int main(){
-    int a=6, b= 4;
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int a=6, b= 4;
     
     // cout<<(a&b);
     // cout <<(a|b);
@@ -49,4 +49,15 @@ int main(){
     // cout<<r;
 
 
+// }
+
+
+
+
+#include<iostream>
+using namespace std;
+int x[67];
+int main()
+{
+    cout << x[62] << endl;
 }
